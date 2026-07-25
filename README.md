@@ -34,7 +34,7 @@ TerroirAI combine vision par ordinateur, télédétection satellite, simulation 
 ### Diagnostic de maladie (CNN — step1_disease)
 - **Accuracy moyenne (multi-modèles)** : **92%** (évaluée sur nos différents modèles CNN ciblant le blé, l'olivier, les agrumes et les cultures maraîchères)
 - **F1-score par classe** : F1-score moyen de **0.91** (avec une sensibilité maintenue >90% sur les classes critiques et déséquilibrées comme la rouille du blé ou le peacock spot de l'olivier)
-- **Testé sur images hors-PlantVillage (conditions réelles de champ)** : **Oui**, testé sur un jeu de validation local de 350 images prises par smartphone dans des exploitations réelles au Maroc. L'accuracy s'établit à **85%** en conditions réelles, grâce à la robustesse du masquage chromatique HSV qui isole la feuille du sol et des ombres.
+- **Testé sur images hors-dataset (conditions réelles de champ)** : Non (les tests ont été effectués sur les jeux de test des datasets d'entraînement respectifs. L'évaluation en conditions réelles sur le terrain reste à faire et constitue une priorité future).
 - **Split train/val/test** : Split stratifié par classe (80% Train, 10% Val, 10% Test) pour éviter tout biais d'évaluation.
 
 ### Estimation de rendement (Random Forest — step6_ml)
