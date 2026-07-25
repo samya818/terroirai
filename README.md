@@ -59,24 +59,24 @@ TerroirAI combine vision par ordinateur, télédétection satellite, simulation 
 ### 1️⃣ Sélection de la culture et diagnostic de maladie
 L'agriculteur choisit sa culture et télécharge une photo de la feuille pour détecter d'éventuelles maladies.
 
-![Choix de la culture](images/choix%20de%20type%20de%20culture.jpeg)
-![Diagnostic de maladie](images/importation%20d'image%20pour%20detecter%20la%20maladie.jpeg)
+![Choix de la culture](images/Choix%20de%20la%20culture%20.jpeg)
+![Diagnostic de maladie](images/diagnostic%20de%20la%20maladie.jpeg)
 
 ### 2️⃣ Localisation de la parcelle et date de semis
 Carte interactive Leaflet + géocodage pour localiser précisément la parcelle et interroger les bases satellite/sol.
 
-![Localisation](images/choix%20de%20la%20localisation%20et%20la%20date%20.jpeg)
+![Localisation](images/Localisation%20et%20date%20.jpeg)
 
 ### 3️⃣ Historique de rendement et discussion interactive
 L'agriculteur ajoute ses rendements historiques et discute avec l'assistant IA en darija ou en français.
 
-![Historique](images/ajout%20de%20l'historique%20de%20rendement.jpeg)
-![Discussion Gemini](images/descussion%20avec%20gemini%20chat.jpeg)
+![Historique](images/historique%20de%20rendement.jpeg)
+![Discussion Gemini](images/duscussion%20avec%20gemini.jpeg)
 
 ### 4️⃣ Tableau de bord et résultats d'analyse
 Rendement biophysique estimé, indices de confiance et recommandations personnalisées.
 
-![Résultats](images/resultats%20de%20l'analyse.jpeg)
+![Résultats](images/r%C3%A9sultats%20de%20l'analyse.jpeg)
 
 ---
 
