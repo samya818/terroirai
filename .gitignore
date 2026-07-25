@@ -21,3 +21,7 @@ Thumbs.db
 *cache.json
 *.pkl
 *.log
+
+# Environment variables
+.env
+.env.*
