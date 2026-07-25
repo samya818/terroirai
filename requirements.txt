@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+pydantic
+Pillow
+numpy
+requests
+urllib3
+google-generativeai
+pandas
+scikit-learn
+pyyaml
+earthengine-api
+pcse
+tensorflow
