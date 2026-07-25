@@ -24,8 +24,6 @@ TerroirAI combine vision par ordinateur, télédétection satellite, simulation 
 
 ## 🔬 Résultats & Données d'entraînement
 
-> Cette section existe pour que quiconque visite ce repo puisse juger la qualité du système en 10 secondes, sans lire le code.
-
 ### Provenance et nature des données d'entraînement
 - **Diagnostic de maladie (CNN)** : Les modèles CNN (`.h5` sauvegardés sous `step1_disease/models/`) ont été entraînés sur des bases de données publiques de référence et des jeux d'images locaux :
   - *PlantVillage* : plus de 54 000 images de feuilles pour les cultures maraîchères (tomate, pomme de terre, etc.).
@@ -42,8 +40,6 @@ TerroirAI combine vision par ordinateur, télédétection satellite, simulation 
 ### Estimation de rendement (Random Forest — step6_ml)
 - **Métriques clés** : **R² = 0.88** | **RMSE = 340 kg/ha** | **MAE = 265 kg/ha** (évalué sur validation synthétique et historique de référence)
 - **Entraînement & Calibration** : Entraîné initialement via un bootstrap de 5 000 parcelles simulées par le modèle biophysique WOFOST (capturant les dynamiques thermodynamiques), puis calibré et validé sur 45 parcelles réelles de blé et d'olivier au Maroc.
-
-*Pourquoi cette section est en haut : un README sans résultats chiffrés donne l'impression qu'un projet n'a pas été validé, même quand ce n'est pas le cas. Les chiffres construisent la confiance plus vite que n'importe quelle description d'architecture.*
 
 ---
 
