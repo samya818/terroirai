@@ -199,4 +199,4 @@ Accédez à la plateforme sur `http://127.0.0.1:8000`.
 
 ## 🤝 Équipe
 
-Projet réalisé en binôme. Vision par ordinateur, connecteurs sols/satellite, moteur biophysique WOFOST, fusion ML et assistant interactif ont été développés et intégrés conjointement.
+Projet réalisé en binôme  et encadré par Anas Bennalla. Vision par ordinateur, connecteurs sols/satellite, moteur biophysique WOFOST, fusion ML et assistant interactif ont été développés et intégrés conjointement.
